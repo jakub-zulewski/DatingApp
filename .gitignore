@@ -479,3 +479,5 @@ $RECYCLE.BIN/
 API/appsettings.json
 
 API/database.db
+API/database.db-shm
+API/database.db-wal
